@@ -1,4 +1,4 @@
-# Tiny Python Rpojects
+# Tiny Python Pojects
 These are simple Python Projects 
 
 1. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/currencyConverterGUI.py"> 
