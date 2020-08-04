@@ -10,14 +10,14 @@ These are simple Python Projects
 
 2. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/currencyConverterGUI.py"> Currency Converter </a> 
    <a>: This script converts the currency in real time and current conversion rates
-   <a href="https://www.alphavantage.co/"> alphavantage </a> 
+   <a href="https://www.alphavantage.co/"> Alphavantage </a> 
    <a>is used for API Key and Currency Data
    modules: tkinter, requests </a>
    <br>
 
 3. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/weatherApp.py"> Weather Application </a> 
    <a>: This Application works on API Key from 
-   <a href="https://openweathermap.org" </a>
+   <a href="https://openweathermap.org"> OpenWeatherMap </a>
    <a>and displays the weather information of user specified city in GUI form.
    modules: tkinter, requests </a>
    <br>
