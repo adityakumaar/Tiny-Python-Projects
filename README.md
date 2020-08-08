@@ -23,7 +23,7 @@ These are simple Python Projects
    <br>
    
 4. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/indianFlag.py"> Indian Flag </a>
-   <a>: This scripts draws the flag of India using turtle </a> <br>
+   <a>: This scripts draws the flag of India using turtle module in Python </a> <br>
    <a> modules: turtle </a>
    <br>
 
