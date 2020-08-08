@@ -27,7 +27,12 @@ These are simple Python Projects
    <a> modules: turtle </a>
    <br>
 
-4. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/weatherApp.py"> Weather Application </a> 
+5. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/rainbowWithTurtle.py"> Rainbow </a>
+   <a>: This script draws a hexagonal rainbow using turtle module in Python </a> <br>
+   <a> modules: turtle </a>
+   <br>
+
+6. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/weatherApp.py"> Weather Application </a> 
    <a>: This Application works on API Key from 
    <a href="https://openweathermap.org"> OpenWeatherMap </a>
    <a>and displays the weather information of user specified city in GUI form. <br>
