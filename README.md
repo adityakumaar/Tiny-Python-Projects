@@ -16,10 +16,15 @@ These are simple Python Projects
    <br>
    
 3. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/currencyConverterGUI.py"> Currency Converter </a> 
-   <a>: This script converts the currency in real time and current conversion rates
+   <a>: This script converts the currency in real time and current conversion rates </a>
    <a href="https://www.alphavantage.co/"> Alphavantage </a> 
    <a>is used for API Key and Currency Data. <br>
    modules: tkinter, requests </a>
+   <br>
+   
+4. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/indianFlag.py"> Indian Flag </a>
+   <a>: This scripts draws the flag of India using turtle </a> <br>
+   <a> modules: turtle </a>
    <br>
 
 4. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/weatherApp.py"> Weather Application </a> 
