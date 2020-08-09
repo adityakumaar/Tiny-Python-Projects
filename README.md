@@ -31,7 +31,7 @@ These are simple Python Projects
    <br>
 
 ---
-5. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/multiThreadedPortScanner.py" </a>
+5. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/multiThreadedPortScanner.py"> Port Scanner </a>
    <a>: This is a multi threaded port scanner written in Python </a> <br>
    <a> modules: socket, time, threading, queue </a>
    <br>
