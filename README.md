@@ -43,18 +43,19 @@ These are simple Python Projects
    <br>
 
 ---
-7.1. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/shiftDecryption.py"> Shift Decryption </a>
+7. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/shiftDecryption.py"> Shift Decryption </a>
    <a>: This is a python script for performing Shift Decryption </a> <br>
    <a> modules: string </a>
    <br>
+   <br>
 
-7.2. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/shiftEncryption.py"> Shift Encryption </a>
+8. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/shiftEncryption.py"> Shift Encryption </a>
    <a>: This is a python script for performing Shift Encryption </a> <br>
    <a> modules: string </a>
    <br>
 
 ---
-8. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/weatherApp.py"> Weather Application </a> 
+9. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/weatherApp.py"> Weather Application </a> 
    <a>: This Application works on API Key from 
    <a href="https://openweathermap.org"> OpenWeatherMap </a>
    <a>and displays the weather information of user specified city in GUI form. <br>
