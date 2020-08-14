@@ -61,7 +61,7 @@ These are simple Python Projects
    <br>
 
 ---
-9. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/weatherApp.py"> Weather Application </a> 
+10. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/weatherApp.py"> Weather Application </a> 
    <a>: This Application works on API Key from 
    <a href="https://openweathermap.org"> OpenWeatherMap </a>
    <a>and displays the weather information of user specified city in GUI form. <br>
