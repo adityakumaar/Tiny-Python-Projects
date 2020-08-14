@@ -37,6 +37,12 @@ These are simple Python Projects
    <br>
 
 ---
+6. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/musicPlayer.py"> Music Player </a>
+   <a>: This is a simple MP3 player written in Python </a> <br>
+   <a> modules: pygame </a>
+   <br>
+   
+---
 6. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/rainbowWithTurtle.py"> Rainbow </a>
    <a>: This script draws a hexagonal rainbow using turtle module in Python </a> <br>
    <a> modules: turtle </a>
