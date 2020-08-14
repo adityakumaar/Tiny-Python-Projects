@@ -49,7 +49,7 @@ These are simple Python Projects
    <br>
 
 ---
-7. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/shiftDecryption.py"> Shift Decryption </a>
+8. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/shiftDecryption.py"> Shift Decryption </a>
    <a>: This is a python script for performing Shift Decryption </a> <br>
    <a> modules: string </a>
    <br>
