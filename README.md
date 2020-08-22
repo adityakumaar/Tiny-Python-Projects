@@ -1,6 +1,5 @@
 # Tiny Python Pojects
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
-[![Only 32 Kb](https://badge-size.herokuapp.com/adityakumaar/StrapDown.js/master/strapdown.min.js)](https://github.com/adityakumaar/Tiny-Python-Projects) <br>
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) <br>
 These are simple projects 
 
 1. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/bitcoinPriceScraper.py"> Bitcoin Price Scraper </a>
