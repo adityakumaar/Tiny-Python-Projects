@@ -63,6 +63,7 @@ These are simple projects
    <a>: This is a python script for performing Shift Encryption </a> <br>
    <a> modules: string </a>
    <br>
+   
 
 ---
 10. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/weatherApp.py"> Weather Application </a> 
