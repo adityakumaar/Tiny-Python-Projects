@@ -8,9 +8,7 @@ These are simple projects
    <a href="https://www.google.com/"> Google </a> 
    <a> and displays the result in clear text. <br>
    modules: bs4, requests </a>
-   <br>
-   
-   
+   <br> 
 
 ---
 2. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/coronaCasesScraper.py"> Current Corona Virus Cases </a>
