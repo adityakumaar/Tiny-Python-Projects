@@ -26,6 +26,7 @@ These are simple projects
    modules: tkinter, requests </a>
    <br>
    
+   
 ---
 4. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/indianFlag.py"> Indian Flag </a>
    <a>: This scripts draws the flag of India using turtle module in Python </a> <br>
