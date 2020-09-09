@@ -10,8 +10,6 @@ These are simple projects
    modules: bs4, requests </a>
    <br> 
    
-   
-
 ---
 2. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/coronaCasesScraper.py"> Current Corona Virus Cases </a>
    <a>: This script reads the current total number of Corona Virus Cases from the </a>
