@@ -38,6 +38,7 @@ These are simple projects
    <a>: This is a multi threaded port scanner written in Python </a> <br>
    <a> modules: socket, time, threading, queue </a>
    <br>
+   
 
 ---
 6. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/musicPlayer.py"> Music Player </a>
