@@ -17,6 +17,8 @@ These are simple projects
    <a> and displays the result in clear text. <br>
    modules: bs4, requests </a>
    <br>
+   
+   
 
 ---
 3. <a href="https://github.com/adityakumaar/Tiny-Python-Projects/blob/master/currencyConverterGUI.py"> Currency Converter </a> 
