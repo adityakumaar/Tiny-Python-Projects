@@ -71,5 +71,3 @@ These are simple projects
    modules: tkinter, requests </a>
    <br>
    
-   
-   
