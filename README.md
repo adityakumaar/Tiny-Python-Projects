@@ -70,3 +70,4 @@ These are simple projects
    <a>and displays the weather information of user specified city in GUI form. <br>
    modules: tkinter, requests </a>
    <br>
+
