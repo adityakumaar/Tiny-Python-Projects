@@ -3,7 +3,6 @@ color_1 = ['orange', 'white', 'green']
 t = turtle.Pen()
 t.hideturtle()
 t.penup()
-
 t.goto(-125, 89)
 t.showturtle()
 t.pendown()
