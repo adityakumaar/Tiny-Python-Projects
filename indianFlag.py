@@ -28,6 +28,7 @@ for i in range(15):
     t.lt(90)
     t.fd(2)
     t.lt(90)
+    
 for i in range(15):
     t.pencolor(color_1[2])
     t.fd(250)
