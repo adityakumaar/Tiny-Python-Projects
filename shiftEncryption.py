@@ -16,5 +16,3 @@ def startEncryption(string, shift_val = val):
     return encrypted_string
 
 print(startEncryption(sentence))
-
-
